@@ -23,7 +23,9 @@ A clean and responsive To-Do List app built with pure HTML, CSS, and JavaScript.
 ---
 
 ##  Preview
-![Todo App Screenshot](https://github.com/user-attachments/assets/2b9a3737-844c-4a44-b7e1-7ff23f40ca39/>)
+
+![Todo App Screenshot](https://github.com/user-attachments/assets/2b9a3737-844c-4a44-b7e1-7ff23f40ca39)
+
 
 
 
